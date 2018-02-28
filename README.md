@@ -1,3 +1,3 @@
 # hbhospital
 响应式初试
-[demo](https://jmfwgqwd/jmfwgqwd/hworld.html)
+[demo](https://jmfwgqwd/hworld.html)
